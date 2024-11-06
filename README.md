@@ -1,0 +1,2 @@
+# Swiss-Bank
+MIT
